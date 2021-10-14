@@ -4,7 +4,7 @@
 #Sensor Code and setup
 #All sensor pins, and variables for distance
 
-importat RPi.GPIO as GPIO
+import RPi.GPIO as GPIO
 
 #Distance Tracking Variables
 stopRange = 20 #Collision Range for stop
